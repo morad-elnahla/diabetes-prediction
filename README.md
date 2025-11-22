@@ -106,7 +106,7 @@ Typical pipeline used in notebook:
 3. Fit each model and calculate metrics  
 4. Collect metrics into a results DataFrame for comparison
 
-![image](https://github.com/ةmorad-elnahla/app)
+![image](https://github.com/morad-elnahla/diabetes-prediction/blob/main/Screenshot%202025-11-22%20102458.png)
 
 
 ---
